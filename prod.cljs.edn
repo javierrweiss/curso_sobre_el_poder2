@@ -1,3 +1,5 @@
 {:main       javierweiss.curso-sobre-el-poder
  :output-dir "out"
- :output-to  "out/dev-main.js"}
+ :output-to  "out/dev-main.js"
+ :pseudo-names true
+ :pretty-print true}
